@@ -1,5 +1,3 @@
-# Exploring Diversity-based Active Learning for 3D Object Detection in Autonomous Driving
-
 ## 1. Installation
 
 Please refer to [INSTALATION.md](INSTALLATION.md).
