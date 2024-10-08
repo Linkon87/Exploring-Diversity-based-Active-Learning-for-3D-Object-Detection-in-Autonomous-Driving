@@ -2,9 +2,9 @@
 
 # **Exploring Diversity-based Active Learning for 3D Object Detection in Autonomous Driving**
 
-This repository is an official implementation for our T-ITS paper [\[Arxiv\]]([arxiv.org/abs/2205.07708](https://arxiv.org/abs/2205.07708))
+This repository is an official implementation for our T-ITS paper [\[Arxiv\]]([arxiv.org/abs/2205.07708]([https://arxiv.org/abs/2205.07708](https://arxiv.org/abs/2205.07708)))
 
-**Jinpeng Lin<sup>1</sup>** &nbsp; **Zhihao Liang<sup>2</sup>** &nbsp; **Shengheng Deng<sup>2</sup>** &nbsp; **Lile Cai<sup>3</sup>**  **Tao Jiang<sup>4</sup>**     **Tianrui Li<sup>1</sup>**  **Kui Jia<sup>2</sup>**  **Xun Xu<sup>3</sup>** 
+**Jinpeng Lin<sup>1</sup>** &nbsp; **Zhihao Liang<sup>2</sup>** &nbsp; **Shengheng Deng<sup>2</sup>** &nbsp; **Lile Cai<sup>3</sup>** &nbsp; **Tao Jiang<sup>4</sup>**  &nbsp;   **Tianrui Li<sup>1</sup>** &nbsp; **Kui Jia<sup>2</sup>** &nbsp;  **Xun Xu<sup>3</sup>** 
 
 <br>
 
