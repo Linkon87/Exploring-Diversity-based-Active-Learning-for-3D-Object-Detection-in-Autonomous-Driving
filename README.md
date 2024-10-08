@@ -2,7 +2,7 @@
 
 # **Exploring Diversity-based Active Learning for 3D Object Detection in Autonomous Driving**
 
-This repository is an official implementation for our T-ITS paper [Arxiv](Arxiv https://arxiv.org/abs/2205.07708 )
+This repository is an official implementation for our T-ITS paper [Arxiv](https://arxiv.org/abs/2205.07708) [IEEE Xplore](https://ieeexplore.ieee.org/document/10706982)
 
 **Jinpeng Lin<sup>1</sup>** &nbsp; **Zhihao Liang<sup>2</sup>** &nbsp; **Shengheng Deng<sup>2</sup>** &nbsp; **Lile Cai<sup>3</sup>** &nbsp; **Tao Jiang<sup>4</sup>**  &nbsp;   **Tianrui Li<sup>1</sup>** &nbsp; **Kui Jia<sup>2</sup>** &nbsp;  **Xun Xu<sup>3</sup>** 
 
@@ -133,15 +133,17 @@ configs/nuscenes/det/transfusion/secfpn/camera+lidar/swint_v0p075/convfuser.yaml
 ## 5. Citation
 
 ```
-@misc{lin2024exploringdiversitybasedactivelearning,
-      title={Exploring Diversity-based Active Learning for 3D Object Detection in Autonomous Driving}, 
-      author={Jinpeng Lin and Zhihao Liang and Shengheng Deng and Lile Cai and Tao Jiang and Tianrui Li and Kui Jia and Xun Xu},
-      year={2024},
-      eprint={2205.07708},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2205.07708}, 
-}
+@ARTICLE{10706982,
+  author={Lin, Jinpeng and Liang, Zhihao and Deng, Shengheng and Cai, Lile and Jiang, Tao and Li, Tianrui and Jia, Kui and Xu, Xun},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Exploring Diversity-Based Active Learning for 3D Object Detection in Autonomous Driving}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Three-dimensional displays;Object detection;Costs;Annotations;Detectors;Uncertainty;Diversity reception;Feature extraction;Autonomous vehicles;Point cloud compression;Active learning;3D object detection;autonomous driving},
+  doi={10.1109/TITS.2024.3463801}}
+
 ```
 
 ## 6. Acknowledgement
