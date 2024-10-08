@@ -148,7 +148,7 @@ configs/nuscenes/det/transfusion/secfpn/camera+lidar/swint_v0p075/convfuser.yaml
 
 ## 6. Acknowledgement
 
-* [Det3D](https://github.com/V2AI/Det3D))  
-* [BevFusion](https://github.com/mit-han-lab/bevfusion))
-* [PPAL](https://github.com/ChenhongyiYang/PPAL))
-* [CALD](https://github.com/we1pingyu/CALD))
+* [Det3D](https://github.com/V2AI/Det3D)
+* [BevFusion](https://github.com/mit-han-lab/bevfusion)
+* [PPAL](https://github.com/ChenhongyiYang/PPAL)
+* [CALD](https://github.com/we1pingyu/CALD)
