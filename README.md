@@ -148,7 +148,7 @@ configs/nuscenes/det/transfusion/secfpn/camera+lidar/swint_v0p075/convfuser.yaml
 
 ## 6. Acknowledgement
 
-* [Det3D]([V2AI/Det3D: World's first general purpose 3D object detection codebse. (github.com)](https://github.com/V2AI/Det3D))  
-* [BevFusion]([mit-han-lab/bevfusion: [ICRA'23\] BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation (github.com)](https://github.com/mit-han-lab/bevfusion))
-* [PPAL]([ChenhongyiYang/PPAL: [CVPR 2024\] Plug and Play Active Learning for Object Detection (github.com)](https://github.com/ChenhongyiYang/PPAL))
-* [CALD]([we1pingyu/CALD: The official implementation of CALD: Consistency-basd Active Learning for Object Detection (github.com)](https://github.com/we1pingyu/CALD))
+* [Det3D](https://github.com/V2AI/Det3D))  
+* [BevFusion](https://github.com/mit-han-lab/bevfusion))
+* [PPAL](https://github.com/ChenhongyiYang/PPAL))
+* [CALD](https://github.com/we1pingyu/CALD))
