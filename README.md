@@ -138,11 +138,12 @@ configs/nuscenes/det/transfusion/secfpn/camera+lidar/swint_v0p075/convfuser.yaml
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Exploring Diversity-Based Active Learning for 3D Object Detection in Autonomous Driving}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-13},
+  volume={25},
+  number={11},
+  pages={15454-15466},
   keywords={Three-dimensional displays;Object detection;Costs;Annotations;Detectors;Uncertainty;Diversity reception;Feature extraction;Autonomous vehicles;Point cloud compression;Active learning;3D object detection;autonomous driving},
   doi={10.1109/TITS.2024.3463801}}
+}
 
 ```
 
